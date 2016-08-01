@@ -426,7 +426,7 @@ project(":elasticsearch-hadoop-mr") {
             testCompile "commons-io:commons-io:2.1"
         }
         
-        testCompile "io.netty:netty-all:4.0.29.Final"
+        testCompile "io.netty:netty-all:4.1.4.Final"
         testCompile "org.elasticsearch:securemock:1.2"
     }
     
